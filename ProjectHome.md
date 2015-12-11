@@ -1,0 +1,1 @@
+Simple timeclock program for employees to clockin and clockout, print up reports to see how many hours they've worked this week, and allow admin to edit time for when people forget to clock in/out, then print reports for payroll
